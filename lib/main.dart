@@ -21,6 +21,8 @@ class MyApp extends StatelessWidget {
               
               CustomBox(displayText: "Merhaba, Flutter", boxColor: Colors.teal),
               CustomBox(displayText: "Hello, Flutter", boxColor: Colors.amber),
+              
+
             ],
           ),
         ),
